@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAConsole", "OAConsole\OAConsole.csproj", "{DD25A2EA-0040-4D2C-9435-ED19E1249580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdofaiMidiConverter", "AdofaiMidiConverter\AdofaiMidiConverter.csproj", "{FCB10D51-AF6A-41FE-8D55-4821FDD6F4A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartEffect", "ChartEffect\ChartEffect.csproj", "{E045F10A-01F7-4636-B5FA-795F2903CFB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD25A2EA-0040-4D2C-9435-ED19E1249580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD25A2EA-0040-4D2C-9435-ED19E1249580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD25A2EA-0040-4D2C-9435-ED19E1249580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD25A2EA-0040-4D2C-9435-ED19E1249580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB10D51-AF6A-41FE-8D55-4821FDD6F4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB10D51-AF6A-41FE-8D55-4821FDD6F4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB10D51-AF6A-41FE-8D55-4821FDD6F4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB10D51-AF6A-41FE-8D55-4821FDD6F4A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E045F10A-01F7-4636-B5FA-795F2903CFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E045F10A-01F7-4636-B5FA-795F2903CFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E045F10A-01F7-4636-B5FA-795F2903CFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E045F10A-01F7-4636-B5FA-795F2903CFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
